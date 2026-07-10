@@ -1,0 +1,23 @@
+geral!!!!!
+
+1. Visão Geral;
+
+1.1 Protótipos
+
+1.1 (Argumentação/explicação): Foi idealizado e desenvolvido, ao longo do tempo, uma versão experimental de um projeto (na qual foi dividida ao meio devido à intervenções técnicas que limitavam a expansão do projeto em um arquivo único) que consistia em um jogo que (sua história, para fins de entretenimento sendo) uma trama em que uma gata chamada de Mag tinha suas amigas (duas gatas, para fins de especificações) sequestradas por um cachorro vira-lata com o nome de Toby, para realizar experimentos em sua base com o DNA copiado delas para gerar energia a um arma à laser capaz de exterminar o planeta onde Mag vive. Porém, a trama passou por várias alterações afim de simplificar o trabalho de narrativa. Ao invés do DNA das amigas da Mag serem utilizadas para energizar sua máquina (a do Toby), a trama foi simplificada com a narrativa de que o Toby sequestrou o pacote de ração novinho em folha que a Mag encontrou, fazendo conexão direta com o fato de explicar o por que dos objetos coletáveis serem rações. Curiosidade: O Nome e a aparência da gata e do cão utilizados no jogo, são idênticos aos pets do criador na vida real, com a Mag possuindo manchas pretas na sua pelagem branca e o Toby sendo de cor totalmente caramelizada.
+
+
+1.2 Tomada de decisões
+1.3 Funções
+
+2. Artes Conceituais;
+
+2.1 Diagramas
+2.2 
+2.3 
+
+3. Análise de dados internos;
+
+3.1 Coleta de informações
+3.2 Comparações das ações resultantes das informações
+3.3 Monitorar o aprimoramento cognitivo
