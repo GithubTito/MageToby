@@ -8,11 +8,30 @@ geral!!!!!
 
 
 1.2 Tomada de decisões
+
+(Argumentação/explicação): O site possui, por sua vez, um sistema de livre arbítrio disponível para o usuário interagir com as funções e dinâmicas que o site oferece. Elas podem ser acessadas através da movimentação do personagem principal até a opção escolhida. Proporcionando uma liberdade criativa e tomada de decisões para o usuário.
+
+
 1.3 Funções
+
+As opções disponíveis para interagir no site, possuem suas funções listadas na coluna a seguir: 
+
+Na Página Principal e Afins:
+
+Games;
+Sobre o site;
+
+-Games: Ao acessar esta opção o usuário irá se deparar com uma interface de um caminho labiríntico. Para ter acesso aos 2 protótipos do jogo (em fase de testes) Mag & Toby, ou voltar para a página anterior (Opção de Voltar), ele deverá explorar diversas rotas pra encontrar a opção desejada movimentando o personagem principal.
+
+-Sobre o Site: Quando acessada, esta opção revela os devidos créditos às pessoas que colaboraram para desenvolver este projeto.
+
 
 2. Artes Conceituais;
 
 2.1 Diagramas
+
+
+
 2.2 
 2.3 
 
